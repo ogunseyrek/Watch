@@ -1,3 +1,6 @@
+//Hilmi Ogün SEYREK
+//ogunseyrek@gmail.com
+
 #include <Wire.h>           //İletişim kütüphanesi.
 #include <DS1307new.h>      //Rtc modülü için kütüphane.
 #include <LCD5110_Basic.h>         // LCD kütüphanemizi ekliyoruz
